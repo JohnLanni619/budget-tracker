@@ -10,7 +10,7 @@ The goal of this project was to update an existing budget tracker application to
 
 ## Links
 [Link to Repository](https://github.com/JohnLanni619/budget-tracker) <br/>
-[Link to Deployed Application](https://boiling-meadow-28399.herokuapp.com/)
+[Link to Deployed Application](https://powerful-cove-91999.herokuapp.com/)
 
 ## About Me
 I'm an aspiring full-stack web developer, currently working through the Rutgers Coding Bootcamp. When I'm not coding, I'm working as a personal trainer and spending time with my 3 year old son.
